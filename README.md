@@ -24,3 +24,28 @@ https://github.com/LapoDini/Bulldozer-price-prediction/blob/main/bulldozer-price
 
 
 ![download](https://user-images.githubusercontent.com/109316190/203017815-98d724cc-0a6f-4cd3-b8c7-4a67cc961ed3.png)
+
+
+## Modelling
+https://github.com/LapoDini/Bulldozer-price-prediction/blob/main/Modeling.ipynb
+
+In this notebook, we are training a model to predict the sale price of heavy construction equipment.
+
+### Data Wrangling
+* Load the parsed dataset from the eda
+* Sorting the dataset by Year of Sale
+* Filling numeric values with the mean 
+* Convert non-numerical features in Category, using pandas API
+* Convert category into number, using the category code provided by pandas API. 
+
+### Modelling
+After that, we start modelling: we choose a Random Forest Regressor from Scikit-Learn library.
+We decide to evaluate our model performance with three different metrics
+
+* R2 Score
+* Mean Absolute Error
+* Root Mean Log Squared Error
+
+We see that the performance of our model is quite good but could be improved. 
+We would like to try tuning our model with GridSearchCV and see if this will improve our model performance.
+After that, we would like to try another model like Lasso or ElasticNet.

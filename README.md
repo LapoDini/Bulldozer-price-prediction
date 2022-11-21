@@ -13,6 +13,14 @@ https://github.com/LapoDini/Bulldozer-price-prediction/blob/main/bulldozer-price
 * Exploring the dataset to find information
 * Visualizations
 
-### What we can say about the data?
 
 ![download](https://user-images.githubusercontent.com/109316190/203017369-2dfe3529-a8f7-453a-b3b8-d5f2900377e1.png)
+
+
+![download](https://user-images.githubusercontent.com/109316190/203017546-a30f6e9d-deb3-424b-a7b9-dcd26c375d49.png)
+
+
+![download](https://user-images.githubusercontent.com/109316190/203017767-a4b8b283-69b5-4375-a85b-8742a0940e58.png)
+
+
+![download](https://user-images.githubusercontent.com/109316190/203017815-98d724cc-0a6f-4cd3-b8c7-4a67cc961ed3.png)

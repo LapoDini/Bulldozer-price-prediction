@@ -12,3 +12,7 @@ https://github.com/LapoDini/Bulldozer-price-prediction/blob/main/bulldozer-price
 * Loading dataset and parsing Date and Time features
 * Exploring the dataset to find information
 * Visualizations
+
+### What we can say about the data?
+
+![download](https://user-images.githubusercontent.com/109316190/203017369-2dfe3529-a8f7-453a-b3b8-d5f2900377e1.png)
